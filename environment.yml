@@ -1,0 +1,8 @@
+name: leitner_box
+channels:
+- conda-forge
+dependencies:
+- pandas
+- django
+- pip
+- pip:
